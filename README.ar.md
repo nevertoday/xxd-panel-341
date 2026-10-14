@@ -10,6 +10,53 @@
 
 > مدخل النص الأصلي (باللغات الخمس): [简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md).
 
+## نماذج 16:9 يسار–يمين
+
+عشرون صورة عمودية من Unsplash بعشرين موضوعًا مختلفًا عن مجموعة الأعلى–الأسفل، وكل منها لوحة 16:9 يسار–يمين مكتملة. تبقى الصورة في اليسار، وفي اليمين يلتقط ورق عاجي دافئ الفرصة الواحدة المختارة منها فيواصلها أو يعيد توظيفها أو يقلبها، مناصفة دقيقة 50:50. وتبقى في كل عمل جملة إنجليزية واحدة بخط اليد. اخترنا مواضيع عمودية تميل إلى الحركة والخطوط الصاعدة والممتدة، لنُظهر كيف ينتقل المنطق نفسه جانبيًا.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 341 sample 21 · درج حلزوني"><br><sub>21 · درج حلزوني</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 341 sample 22 · أرجوحة"><br><sub>22 · أرجوحة</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 341 sample 23 · بالون أحمر"><br><sub>23 · بالون أحمر</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 341 sample 24 · عمود إنارة وطيور"><br><sub>24 · عمود إنارة وطيور</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 341 sample 25 · قطة عند النافذة"><br><sub>25 · قطة عند النافذة</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 341 sample 26 · متسلق صخور"><br><sub>26 · متسلق صخور</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 341 sample 27 · فقاعات صابون"><br><sub>27 · فقاعات صابون</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 341 sample 28 · قراءة على مقعد"><br><sub>28 · قراءة على مقعد</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 341 sample 29 · يد نحو السماء"><br><sub>29 · يد نحو السماء</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 341 sample 30 · مخروط آيس كريم"><br><sub>30 · مخروط آيس كريم</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 341 sample 31 · نافورة"><br><sub>31 · نافورة</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 341 sample 32 · ظل قفزة"><br><sub>32 · ظل قفزة</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 341 sample 33 · سلم طوارئ"><br><sub>33 · سلم طوارئ</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 341 sample 34 · مروحة ورقية"><br><sub>34 · مروحة ورقية</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 341 sample 35 · جدار لبلاب"><br><sub>35 · جدار لبلاب</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 341 sample 36 · غيتار"><br><sub>36 · غيتار</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 341 sample 37 · كلب عند الباب"><br><sub>37 · كلب عند الباب</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 341 sample 38 · منظف نوافذ"><br><sub>38 · منظف نوافذ</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 341 sample 39 · كرات صوف"><br><sub>39 · كرات صوف</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 341 sample 40 · راقصة باليه"><br><sub>40 · راقصة باليه</sub></td>
+  </tr>
+</table>
+
 ## نماذج 3:4 أعلى–أسفل
 
 عشرون صورة أفقية من Unsplash في عشرين موضوعًا مختلفًا، كل منها لوحة 3:4 أعلى–أسفل مكتملة. تبقى الصورة في الأعلى، وفي الأسفل تعبر الفرصة الوحيدة المختارة منها خط المنتصف فتُستكمل أو يُعاد استخدامها أو تنقلب على الورق، مناصفة دقيقة 50:50. وكما يطلب الموجّه الأصلي، ترافق كل لوحة جملة إنجليزية قصيرة مكتوبة بخط اليد. تمتد الموضوعات من حركة البشر وخطوط المدينة إلى قوى الطبيعة والأشياء اليومية، لتُظهر كيف يتعامل منطق واحد مع مداخل مختلفة جدًا.

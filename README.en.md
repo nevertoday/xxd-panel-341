@@ -10,6 +10,53 @@ Keep the photograph above. Below, its one cleverest opportunity crosses the midl
 
 > Original prompt (five-language entry): [简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md).
 
+## 16:9 Left–Right Samples
+
+Twenty Unsplash portrait photographs on twenty themes different from the top–bottom set, each rebuilt as one complete 16:9 left–right canvas. The photograph stays on the left; on the right, warm off-white paper picks up the one opportunity chosen from it and continues, repurposes or reverses it, exact 50:50. Each still carries one short handwritten English aside. The portrait themes lean toward upward and outward movement and lines, to show how the same logic hands over sideways.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 341 sample 21 · Spiral staircase"><br><sub>21 · Spiral staircase</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 341 sample 22 · Swing"><br><sub>22 · Swing</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 341 sample 23 · Red balloon"><br><sub>23 · Red balloon</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 341 sample 24 · Lamp post and birds"><br><sub>24 · Lamp post and birds</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 341 sample 25 · Cat at the window"><br><sub>25 · Cat at the window</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 341 sample 26 · Rock climber"><br><sub>26 · Rock climber</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 341 sample 27 · Soap bubbles"><br><sub>27 · Soap bubbles</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 341 sample 28 · Reading on a bench"><br><sub>28 · Reading on a bench</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 341 sample 29 · Hand to the sky"><br><sub>29 · Hand to the sky</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 341 sample 30 · Ice-cream cone"><br><sub>30 · Ice-cream cone</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 341 sample 31 · Fountain"><br><sub>31 · Fountain</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 341 sample 32 · Jumping silhouette"><br><sub>32 · Jumping silhouette</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 341 sample 33 · Fire escape"><br><sub>33 · Fire escape</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 341 sample 34 · Pinwheel"><br><sub>34 · Pinwheel</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 341 sample 35 · Ivy wall"><br><sub>35 · Ivy wall</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 341 sample 36 · Acoustic guitar"><br><sub>36 · Acoustic guitar</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 341 sample 37 · Dog at the door"><br><sub>37 · Dog at the door</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 341 sample 38 · Window cleaner"><br><sub>38 · Window cleaner</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 341 sample 39 · Yarn"><br><sub>39 · Yarn</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 341 sample 40 · Ballet dancer"><br><sub>40 · Ballet dancer</sub></td>
+  </tr>
+</table>
+
 ## 3:4 Top–Bottom Samples
 
 Twenty Unsplash landscape photographs on twenty different themes, each rebuilt as one complete 3:4 top–bottom canvas. The photograph stays above; below, the one opportunity chosen from it crosses the midline and is continued, repurposed or reversed on paper, exact 50:50. As the source brief asks, each carries one short handwritten English aside. The themes span human action, urban lines, natural forces and everyday objects, to show how one logic handles very different openings.

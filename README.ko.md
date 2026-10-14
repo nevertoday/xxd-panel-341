@@ -10,6 +10,53 @@
 
 > 원본 프롬프트(5개 언어 입구): [简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md).
 
+## 16:9 좌우 구성 예시
+
+상하 세트와 다른 스무 가지 주제의 Unsplash 세로 사진 스무 장. 각각 16:9 좌우 완성 캔버스. 왼쪽은 실사, 오른쪽은 따뜻한 미색 종이가 사진에서 고른 하나의 계기를 이어받아 연장하거나 전용하거나 뒤집는다. 정확히 50:50. 각 작품에는 여전히 영어 손글씨 한 줄만. 세로 주제는 위로, 바깥으로 향하는 동작과 선 위주로 골라 같은 논리가 옆으로 어떻게 이어지는지 보여 준다.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 341 sample 21 · 나선 계단"><br><sub>21 · 나선 계단</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 341 sample 22 · 그네"><br><sub>22 · 그네</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 341 sample 23 · 빨간 풍선"><br><sub>23 · 빨간 풍선</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 341 sample 24 · 가로등과 새"><br><sub>24 · 가로등과 새</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 341 sample 25 · 창가의 고양이"><br><sub>25 · 창가의 고양이</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 341 sample 26 · 암벽 등반"><br><sub>26 · 암벽 등반</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 341 sample 27 · 비눗방울"><br><sub>27 · 비눗방울</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 341 sample 28 · 벤치 독서"><br><sub>28 · 벤치 독서</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 341 sample 29 · 하늘로 뻗은 손"><br><sub>29 · 하늘로 뻗은 손</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 341 sample 30 · 아이스크림콘"><br><sub>30 · 아이스크림콘</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 341 sample 31 · 분수"><br><sub>31 · 분수</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 341 sample 32 · 점프 실루엣"><br><sub>32 · 점프 실루엣</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 341 sample 33 · 비상계단"><br><sub>33 · 비상계단</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 341 sample 34 · 바람개비"><br><sub>34 · 바람개비</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 341 sample 35 · 담쟁이 벽"><br><sub>35 · 담쟁이 벽</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 341 sample 36 · 기타 연주"><br><sub>36 · 기타 연주</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 341 sample 37 · 문 앞의 개"><br><sub>37 · 문 앞의 개</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 341 sample 38 · 고층 창 청소"><br><sub>38 · 고층 창 청소</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 341 sample 39 · 털실"><br><sub>39 · 털실</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 341 sample 40 · 발레리나"><br><sub>40 · 발레리나</sub></td>
+  </tr>
+</table>
+
 ## 3:4 상하 구성 예시
 
 스무 가지 주제의 Unsplash 가로 사진 스무 장을 각각 완성된 3:4 상하 캔버스로 만들었다. 위는 실사, 아래에서는 사진에서 고른 하나의 계기가 중선을 넘어 종이 위에서 이어지고, 다르게 쓰이고, 뒤집힌다. 정확히 50:50. 원문대로 작품마다 영어 손글씨 한 줄만 붙인다. 사람의 동작, 도시의 선, 자연의 힘, 일상 사물까지, 서로 다른 계기에 같은 논리가 어떻게 작동하는지 보여 준다.

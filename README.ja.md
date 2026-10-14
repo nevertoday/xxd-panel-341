@@ -10,6 +10,53 @@
 
 > 原始プロンプト（5言語の入口）：[简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)。
 
+## 16:9 左右の作例
+
+上下の組とは別の20テーマの Unsplash 縦写真。それぞれ 16:9 の左右完成キャンバス。左は現実写真、右は温かな生成りの紙が写真から選ばれた一つの切り口を受け取り、続け、転用し、あるいは反転させる。厳密に 50:50。各作品に英語の手書きの一言を一つだけ。縦写真のテーマは上へ・外へ向かう動きと線を中心に選び、同じ論理が横方向にどう受け渡されるかを見せる。
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 341 sample 21 · 螺旋階段"><br><sub>21 · 螺旋階段</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 341 sample 22 · ブランコ"><br><sub>22 · ブランコ</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 341 sample 23 · 赤い風船"><br><sub>23 · 赤い風船</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 341 sample 24 · 街灯と鳥"><br><sub>24 · 街灯と鳥</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 341 sample 25 · 窓辺の猫"><br><sub>25 · 窓辺の猫</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 341 sample 26 · クライマー"><br><sub>26 · クライマー</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 341 sample 27 · シャボン玉"><br><sub>27 · シャボン玉</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 341 sample 28 · ベンチで読書"><br><sub>28 · ベンチで読書</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 341 sample 29 · 空へ伸びる手"><br><sub>29 · 空へ伸びる手</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 341 sample 30 · アイスクリーム"><br><sub>30 · アイスクリーム</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 341 sample 31 · 噴水"><br><sub>31 · 噴水</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 341 sample 32 · ジャンプの影"><br><sub>32 · ジャンプの影</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 341 sample 33 · 非常階段"><br><sub>33 · 非常階段</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 341 sample 34 · 風車"><br><sub>34 · 風車</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 341 sample 35 · 蔦の壁"><br><sub>35 · 蔦の壁</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 341 sample 36 · ギター"><br><sub>36 · ギター</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 341 sample 37 · 扉の前の犬"><br><sub>37 · 扉の前の犬</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 341 sample 38 · 窓拭き"><br><sub>38 · 窓拭き</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 341 sample 39 · 毛糸玉"><br><sub>39 · 毛糸玉</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 341 sample 40 · バレリーナ"><br><sub>40 · バレリーナ</sub></td>
+  </tr>
+</table>
+
 ## 3:4 上下の作例
 
 20のテーマから選んだ Unsplash の横長写真20点を、それぞれ 3:4 上下の完成キャンバスにした。上は現実写真、下では写真から選ばれた一つの切り口が中線を越え、紙の上で続き・転用・反転される。厳密に 50:50。原文どおり、各作品に英語の手書きの一言だけを添える。人の動き、街の線、自然の力、日用品まで、異なる切り口に同じ論理がどう働くかを示す。

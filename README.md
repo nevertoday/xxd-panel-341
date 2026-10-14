@@ -10,6 +10,53 @@
 
 > 原始提示词（五语入口）：[简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)。
 
+## 16:9 左右双联样张
+
+以下二十张使用与上下组完全不同的二十个主题的 Unsplash 竖幅照片，各自生成一张完整的 16:9 左右双联画布：左侧保留现实摄影，右侧在暖米白纸面上接住照片里被选中的那个契机，把它延续、转义或反转，严格 50:50。每张仍只配一句英文手写旁白。竖幅主题偏向向上、向外的动作与线条，用来展示同一套逻辑在左右构图里如何接力。
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 341 sample 21 · 旋转楼梯"><br><sub>21 · 旋转楼梯</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 341 sample 22 · 秋千"><br><sub>22 · 秋千</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 341 sample 23 · 手握气球"><br><sub>23 · 手握气球</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 341 sample 24 · 街灯与鸟"><br><sub>24 · 街灯与鸟</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 341 sample 25 · 窗边猫"><br><sub>25 · 窗边猫</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 341 sample 26 · 攀岩者"><br><sub>26 · 攀岩者</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 341 sample 27 · 吹泡泡"><br><sub>27 · 吹泡泡</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 341 sample 28 · 长椅读书"><br><sub>28 · 长椅读书</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 341 sample 29 · 伸向天空的手"><br><sub>29 · 伸向天空的手</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 341 sample 30 · 冰淇淋甜筒"><br><sub>30 · 冰淇淋甜筒</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 341 sample 31 · 城市喷泉"><br><sub>31 · 城市喷泉</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 341 sample 32 · 跳跃剪影"><br><sub>32 · 跳跃剪影</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 341 sample 33 · 消防梯"><br><sub>33 · 消防梯</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 341 sample 34 · 彩色风车"><br><sub>34 · 彩色风车</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 341 sample 35 · 爬山虎墙"><br><sub>35 · 爬山虎墙</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 341 sample 36 · 弹吉他"><br><sub>36 · 弹吉他</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 341 sample 37 · 门口的狗"><br><sub>37 · 门口的狗</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 341 sample 38 · 高楼擦窗"><br><sub>38 · 高楼擦窗</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 341 sample 39 · 毛线团"><br><sub>39 · 毛线团</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 341 sample 40 · 芭蕾舞者"><br><sub>40 · 芭蕾舞者</sub></td>
+  </tr>
+</table>
+
 ## 3:4 上下双联样张
 
 以下二十张来自二十个不同主题的 Unsplash 横幅照片，各自生成一张完整的 3:4 上下双联画布：上部保留现实摄影，下部让照片中被选中的那个契机越过中线，在纸面上被延续、转义或反转，严格 50:50。按原始提示词，每张只配一句英文手写旁白。主题横跨人物动作、城市线条、自然力量与日常器物，用来展示同一套逻辑面对不同“切口”时的处理。
