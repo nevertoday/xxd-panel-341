@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 341｜Second World: keeps the photo and lets its one cleverest visual opening — a line, an edge, a shadow, a gesture or a direction of force — cross the midline and keep happening on warm off-white paper below, so photo and drawing read as one continuous scene; a few tiny black line-drawn figures actually take part, using, fixing, misreading or finishing what the photo started, with lots of whitespace, a light collage feel and quiet surreal wit, plus one short handwritten English aside that is always in English. Because the idea depends on the photo flowing into the drawing, it works best as a comparison image. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-341 or asks for photo-meets-doodle surrealism, line figures interacting with a photo or a playful photo extension.",
+  "short_description": "第二世界：让照片里的一处契机越过中线，在米白纸面上由黑线小人接着把事情做完",
+  "zh-CN": {
+    "name": "第二世界",
+    "tagline": "让照片里最聪明的一处契机越过中线，在纸面上继续发生。",
+    "look": "原照片基本不动，只找出其中一个“还能继续”的地方：一根绳、一道影子、一段边界或一个动作方向。它越过中线，延伸到下方暖米白的纸面上，被继续画完、换了用途，或被推向一个意想不到的结果，照片和手绘合起来是同一个画面。下方大片留白，只有极少量黑色线稿小人，他们真正参与这件事，像在使用、修补或误读照片里的东西。画面里只有一句简短的英文手写旁白，像随手写下的观察。",
+    "traits": [
+      "摄影越界",
+      "暖米白纸面",
+      "黑色线稿小人",
+      "英文手写旁白",
+      "微型超现实"
+    ],
+    "good": [
+      "画面里有线条、边界或走势可以接着画的照片：一根晾衣绳、一道长影子、一段楼梯、一条海平线",
+      "带有明确动作方向的瞬间：投篮、放风筝、倒水、伸手够东西",
+      "构图干净、留有空间的旅行、街拍、运动或静物照片"
+    ],
+    "poor": [
+      "满屏细节、找不到一处可以延伸的切口的照片",
+      "需要中文或其他语种文字的需求，这里的旁白固定是英文",
+      "想要整张重绘成插画、密集涂鸦、贴纸道具或励志语录的需求"
+    ]
+  },
+  "en": {
+    "name": "Second World",
+    "tagline": "Lets the cleverest opening in your photo cross the midline and keep happening on paper.",
+    "look": "The photo stays essentially untouched; the design finds one place that could carry on, such as a rope, a shadow, an edge or the direction of a movement. It crosses the midline onto warm off-white paper below, where it is finished, given a new use or pushed to an unexpected outcome, so photo and drawing read as one picture. The paper is mostly empty apart from a few tiny black line-drawn figures who actually take part, as if using, repairing or misreading something from the photo. The only text is one short handwritten English aside, like a passing observation.",
+    "traits": [
+      "Photo crossing over",
+      "Warm off-white paper",
+      "Black line figures",
+      "Handwritten English aside",
+      "Small-scale surrealism"
+    ],
+    "good": [
+      "Photos with a line, edge or direction that can be drawn onward: a washing line, a long shadow, a flight of stairs, a horizon",
+      "Moments with a clear direction of action: shooting a basket, flying a kite, pouring water, reaching for something",
+      "Clean, uncluttered travel, street, sports or still-life photos with room to spare"
+    ],
+    "poor": [
+      "Photos packed edge to edge with detail, with no single opening to extend",
+      "Requests for Chinese or other-language text, since the aside is always in English",
+      "Requests to redraw the whole photo as an illustration, or for dense doodles, sticker props or motivational quotes"
+    ]
+  },
+  "ja": {
+    "name": "第二の世界",
+    "tagline": "写真のいちばん気の利いたきっかけが中央線を越え、紙の上で続きを起こします。",
+    "look": "写真はほぼそのまま残し、「まだ続きがありそう」な一点だけを見つけます。一本のロープ、一筋の影、ひとつの境界、動きの向きなどです。それが中央線を越えて下の温かいオフホワイトの紙に伸び、描き足されたり、別の用途を与えられたり、思いがけない結末へ運ばれたりして、写真と手描きが一つの画面になります。紙の上は大きな余白で、ごく少数の黒い線画の小さな人物だけがいて、写真の何かを使ったり、直したり、勘違いしたりしながら本当にその出来事に加わっています。文字は、ふと書き留めた観察のような短い英語の手書きのひと言だけです。",
+    "traits": [
+      "写真の越境",
+      "温かいオフホワイトの紙",
+      "黒い線画の小人",
+      "英語の手書きのひと言",
+      "小さなシュルレアリスム"
+    ],
+    "good": [
+      "描き継げる線、境界、流れがある写真：物干しロープ、長い影、階段、水平線",
+      "動きの向きがはっきりした瞬間：シュート、凧揚げ、水を注ぐ、何かに手を伸ばす",
+      "すっきりして余白のある旅行、スナップ、スポーツ、静物の写真"
+    ],
+    "poor": [
+      "隅々まで細部が詰まり、伸ばせる切り口が見つからない写真",
+      "中国語や他言語の文字が必要な場合（ひと言は常に英語です）",
+      "写真全体をイラストに描き直す、落書きを詰め込む、ステッカー風の小道具や励ましの名言を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "두 번째 세계",
+    "tagline": "사진 속 가장 영리한 계기 하나가 중앙선을 넘어 종이 위에서 계속 일어나게 합니다.",
+    "look": "사진은 거의 그대로 두고, ‘아직 이어질 수 있는’ 한 곳만 찾아냅니다. 밧줄 하나, 그림자 한 줄기, 경계 하나, 혹은 동작의 방향입니다. 그것이 중앙선을 넘어 아래의 따뜻한 미색 종이로 뻗어 나가 마저 그려지거나, 다른 쓰임을 얻거나, 뜻밖의 결과로 이어지면서 사진과 손그림이 하나의 화면이 됩니다. 종이 위는 넓은 여백이고 아주 적은 수의 검은 선화 사람들만 있는데, 이들은 사진 속 무언가를 쓰거나 고치거나 오해하며 실제로 그 일에 참여합니다. 글자는 무심코 적은 관찰 같은 짧은 영어 손글씨 한 줄뿐입니다.",
+    "traits": [
+      "사진의 경계 넘기",
+      "따뜻한 미색 종이",
+      "검은 선화 사람",
+      "영어 손글씨 한마디",
+      "작은 초현실"
+    ],
+    "good": [
+      "이어 그릴 선, 경계, 흐름이 있는 사진: 빨랫줄, 긴 그림자, 계단, 수평선",
+      "동작 방향이 분명한 순간: 슛, 연날리기, 물 따르기, 무언가에 손 뻗기",
+      "깔끔하고 여유 공간이 있는 여행, 거리, 스포츠, 정물 사진"
+    ],
+    "poor": [
+      "구석구석 디테일로 꽉 차서 이어 갈 틈이 없는 사진",
+      "중국어나 다른 언어 문구가 필요한 경우(한마디는 항상 영어입니다)",
+      "사진 전체를 일러스트로 다시 그리기, 빽빽한 낙서, 스티커 소품, 동기부여 문구를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "العالم الثاني",
+    "tagline": "يترك أذكى مدخل في صورتك يعبر خط المنتصف ويواصل الحدوث على الورق.",
+    "look": "تبقى الصورة كما هي تقريباً، ويُبحث فيها عن موضع واحد يمكن أن يستمر: حبل، أو ظلّ، أو حافة، أو اتجاه حركة. يعبر هذا الموضع خط المنتصف إلى ورق دافئ بلون الأبيض المائل إلى البيج في الأسفل، فيُستكمل أو يُعطى استخداماً جديداً أو يُدفع إلى نتيجة غير متوقعة، فتُقرأ الصورة والرسم كمشهد واحد. الورق فارغ في معظمه، إلا من بضعة أشخاص صغار مرسومين بخط أسود يشاركون فعلاً في الحدث، كأنهم يستعملون شيئاً من الصورة أو يصلحونه أو يسيئون فهمه. والنص الوحيد تعليق قصير بخط اليد باللغة الإنجليزية، كملاحظة عابرة.",
+    "traits": [
+      "صورة تعبر الحدود",
+      "ورق أبيض دافئ",
+      "شخصيات بخط أسود",
+      "تعليق إنجليزي بخط اليد",
+      "سريالية صغيرة"
+    ],
+    "good": [
+      "صور فيها خط أو حافة أو اتجاه يمكن مواصلة رسمه: حبل غسيل، ظلّ طويل، درج، خط الأفق",
+      "لحظات فيها اتجاه حركة واضح: تسديد كرة في السلة، إطلاق طائرة ورقية، صبّ الماء، مدّ اليد نحو شيء",
+      "صور سفر أو شارع أو رياضة أو طبيعة صامتة نظيفة التكوين فيها متّسع"
+    ],
+    "poor": [
+      "صور مكتظة بالتفاصيل من طرف إلى طرف، لا يوجد فيها مدخل واحد يمكن مدّه",
+      "طلب نص بالصينية أو بلغة أخرى، فالتعليق بالإنجليزية دائماً",
+      "طلب إعادة رسم الصورة كلها، أو خربشات كثيفة، أو ملصقات، أو عبارات تحفيزية"
+    ]
+  }
+}

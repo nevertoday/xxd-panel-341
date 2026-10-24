@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-341
-description: "Create XXD Panel 341 raster artwork: a faithful photograph whose one cleverest visual opportunity crosses the midline and keeps happening on warm off-white paper, carried by a few black line-drawn figures and one short handwritten English aside. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-341 or asks for this 第二世界 style."
+description: "XXD Panel 341｜Second World: keeps the photo and lets its one cleverest visual opening — a line, an edge, a shadow, a gesture or a direction of force — cross the midline and keep happening on warm off-white paper below, so photo and drawing read as one continuous scene; a few tiny black line-drawn figures actually take part, using, fixing, misreading or finishing what the photo started, with lots of whitespace, a light collage feel and quiet surreal wit, plus one short handwritten English aside that is always in English. Because the idea depends on the photo flowing into the drawing, it works best as a comparison image. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-341 or asks for photo-meets-doodle surrealism, line figures interacting with a photo or a playful photo extension."
 ---
 
 # XXD Panel 341

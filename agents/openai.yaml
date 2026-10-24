@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 341"
-  short_description: "第二世界：上半保留原照，下半让照片里最聪明的一处契机越过中线，在米白纸面上继续发生"
-  default_prompt: "Use $xxd-panel-341 to transform my photograph following the complete canonical source brief."
+  short_description: "第二世界：让照片里的一处契机越过中线，在米白纸面上由黑线小人接着把事情做完"
+  default_prompt: "Use $xxd-panel-341 to turn my photo into Second World artwork."
